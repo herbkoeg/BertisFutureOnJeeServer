@@ -37,7 +37,7 @@ public class Greeter implements Serializable {
      */
     @EJB
     private GreeterEJB greeterEJB;
-
+//test
     /**
      * Stores the response from the call to greeterEJB.sayHello(...)
      */
